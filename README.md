@@ -14,7 +14,7 @@ A) Surf Score: feature engineered metric created to represent physical surf cond
 
 and
 
-B) Surf Label, a.k.a. "surfability": A binary classification of whether not the wave conditions are surfable or not (also feature engineered from domain knowledge of physical surf conditions)
+B) Surf Label, a.k.a. "surfability": A binary classification of whether the wave conditions are surfable or not (also feature engineered from domain knowledge of physical surf conditions)
 
 These target metrics will be predicted by six separate models. The surf score will be predicted via regression modeling, and the surfability will be predicted via binary classification modeling.
 
