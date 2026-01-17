@@ -38,6 +38,6 @@ The six separate models that will be created in this project are:
 
 A Note on runtime: If you are planning on running this notebook to replicate the results, it is suggested to use a T4 GPU (or similar GPU spec) with HIGH-RAM. Using lower ram specs will result in kernel crashing.
 
-Data Citation (also in Citation section at bottom of notebook):
+Data Citation (also in Citation section at bottom of project notebook):
 
 National Data Buoy Center. (1971–2025). Standard Meteorological (stdmet) historical buoy data. NOAA.https://www.ndbc.noaa.gov/data/historical/stdmet/
